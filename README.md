@@ -41,7 +41,7 @@ I'm currently focused on three products:
 
 ## Connect
 
-<a href="https://linkedin.com/in/juniardysetio"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/juniardysetio"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://x.com/juniardysetio"><img src="https://cdn.simpleicons.org/x/F0F6FC" width="32" alt="X" /></a>&nbsp;&nbsp;
-<a href="https://www.threads.com/@juniardysetio"><img src="https://cdn.simpleicons.org/threads/F0F6FC" width="32" alt="Threads" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juniardysetio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniardysetio)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juniardysetio)
+[![Threads](https://img.shields.io/badge/Threads-111111?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@juniardysetio)
