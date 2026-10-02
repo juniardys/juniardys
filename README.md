@@ -31,4 +31,3 @@ TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Redis · Do
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/juniardysetio)
-- [Intensiv](https://intensiv.id)
