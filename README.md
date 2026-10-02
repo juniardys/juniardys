@@ -14,10 +14,9 @@ I work across product discovery, system design, implementation, testing, deploym
 
 ## Selected work
 
-- **[Intensiv.id](https://intensiv.id)** — AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
-- **Kolfly** — AI marketing platform with KOL recommendations, strategy assistance, and content generation
-- **Rishu** — DeFi trading application with backend, database, and blockchain integrations
-- **AI product engineering** — building and shipping Web2, Web3, and AI products from product discovery through production
+- **[Artifisial](https://artifisial.com)** — building practical AI products, solutions, and learning experiences
+- **[Intensiv](https://intensiv.id)** — AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
+- **[Kolfly](https://kolfly.com)** — AI marketing platform with KOL recommendations, strategy assistance, and content generation
 
 ## Core stack
 
