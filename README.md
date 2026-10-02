@@ -14,9 +14,9 @@ I work across product discovery, system design, implementation, testing, deploym
 
 ## Selected work
 
-- **[Artifisial](https://artifisial.com)** — building practical AI products, solutions, and learning experiences
-- **[Intensiv](https://intensiv.id)** — AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
-- **[Kolfly](https://kolfly.com)** — AI marketing platform with KOL recommendations, strategy assistance, and content generation
+- **[Artifisial](https://artifisial.com)**: building practical AI products, solutions, and learning experiences
+- **[Intensiv](https://intensiv.id)**: AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
+- **[Kolfly](https://kolfly.com)**: AI marketing platform with KOL recommendations, strategy assistance, and content generation
 
 ## Core stack
 
