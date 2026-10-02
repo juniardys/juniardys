@@ -14,10 +14,10 @@ I work across product discovery, system design, implementation, testing, deploym
 
 ## Selected work
 
-- **[Intensiv](https://intensiv.id)** — AI-powered learning and digital product platform
-- **[Nakama](https://github.com/juniardys/nakama)** — product-focused AI experiment
-- **[Agent Skills](https://github.com/juniardys/agent-skills)** — reusable skills and workflows for AI agents
-- **[Figma Console MCP](https://github.com/juniardys/figma-console-mcp)** — design-system tooling exposed through an MCP server
+- **[Intensiv.id](https://intensiv.id)** — AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
+- **Kolfly** — AI marketing platform with KOL recommendations, strategy assistance, and content generation
+- **Rishu** — DeFi trading application with backend, database, and blockchain integrations
+- **AI product engineering** — building and shipping Web2, Web3, and AI products from product discovery through production
 
 ## Core stack
 
