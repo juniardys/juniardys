@@ -1,33 +1,57 @@
-# Hi, I'm Juniardy 👋
+<p align="center">
+  <img src="./assets/hero.svg" alt="Juniardy Setiowidayoga, Product Engineer building AI-powered products" />
+</p>
 
-I'm a Senior Full-Stack and AI Product Engineer who enjoys turning ambiguous product ideas into reliable, production-ready platforms.
+<p align="center">
+  <strong>Senior Full-Stack & AI Product Engineer</strong><br />
+  I build useful products from the first sketch to production.
+</p>
 
-I work across product discovery, system design, implementation, testing, deployment, and iteration.
+<p align="center">
+  <a href="https://artifisial.com">Artifisial</a>
+  ·
+  <a href="https://intensiv.id">Intensiv</a>
+  ·
+  <a href="https://kolfly.com">Kolfly</a>
+</p>
 
-## What I build
+## What I do
 
-- AI-powered products and workflows
-- Full-stack web platforms
-- Payment and business-critical workflows
-- Web3 and blockchain integrations
-- Developer tools and automation
+I work at the intersection of product thinking, full-stack engineering, and AI. My role usually spans product discovery, technical planning, implementation, testing, deployment, and the iteration that follows release.
 
-## Selected work
+## Products I work on
 
-- **[Artifisial](https://artifisial.com)**: building practical AI products, solutions, and learning experiences
-- **[Intensiv](https://intensiv.id)**: AI-powered learning and digital product platform with events, programs, courses, digital products, and payments
-- **[Kolfly](https://kolfly.com)**: AI marketing platform with KOL recommendations, strategy assistance, and content generation
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://artifisial.com">Artifisial</a></strong><br />
+      Practical AI products, solutions, and learning experiences.
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://intensiv.id">Intensiv</a></strong><br />
+      An AI-powered learning and digital product platform.
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://kolfly.com">Kolfly</a></strong><br />
+      An AI marketing platform for KOL campaigns and content workflows.
+    </td>
+  </tr>
+</table>
 
-## Core stack
+## How I work
 
-TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Redis · Docker · GitHub Actions · Cloudflare · AI integrations
+| Product first | Ship end to end | Improve with evidence |
+| --- | --- | --- |
+| Start with the user problem and the value to create. | Own the path from architecture to deployment. | Use feedback, data, and production reality to guide the next iteration. |
 
-## Currently
+## Technical toolkit
 
-- Building products at the intersection of software, AI, and education
-- Exploring better AI-assisted development workflows
-- Turning product ideas into useful, reliable systems
+**Frontend**: TypeScript, React, Next.js, Vue.js, Tailwind CSS  
+**Backend**: Node.js, NestJS, Express, Laravel, REST APIs, webhooks  
+**Data**: PostgreSQL, MySQL, MongoDB, Redis, Kafka, Elasticsearch  
+**Delivery**: Docker, GitHub Actions, CI/CD, Cloudflare, Vercel, GCP  
+**Specialised**: AI product integration, payment workflows, Web3, smart contracts
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/juniardysetio)
+<a href="https://www.linkedin.com/in/juniardysetio">LinkedIn</a>
