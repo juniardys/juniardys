@@ -12,9 +12,9 @@
   After nearly a decade working across frontend, backend, AI, and infrastructure, I'm now focused on the full product loop: understanding the problem, shaping the solution, building it, shipping it, and learning from what happens next.
 </p>
 
-## Currently building
+## Products I'm building
 
-I'm currently focused on three products:
+These are the products I'm currently building and shaping:
 
 - <a href="https://artifisial.com">Artifisial</a>
 - <a href="https://intensiv.id">Intensiv</a>
